@@ -1,185 +1,118 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Android Developer Portfolio</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<div align="center">
 
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 40px;
-            background-color: #0f172a;
-            color: #f1f5f9;
-            line-height: 1.6;
-        }
+# Hi, I'm Majid Ibrahim 👋
+### Android Developer | Kotlin · KMP · Compose Multiplatform
 
-        h1, h2, h3 {
-            color: #38bdf8;
-        }
+</div>
 
-        .section {
-            margin-bottom: 50px;
-        }
+---
 
-        .card {
-            background-color: #1e293b;
-            padding: 20px;
-            border-radius: 12px;
-            margin-bottom: 20px;
-        }
+## Experience
 
-        .badge {
-            display: inline-block;
-            background-color: #334155;
-            padding: 6px 12px;
-            border-radius: 20px;
-            margin: 4px;
-            font-size: 14px;
-        }
+### Eva · Junior Android Developer *(Remote — Freelance, Iraq)*
+**Oct 2025 – Dec 2025**
+> Developing features for iOS & Android using **Compose Multiplatform**
 
-        .project-table {
-            width: 100%;
-            border-collapse: collapse;
-        }
+### OTAS · Junior Android Developer *(Remote — Full-time, Saudi Arabia)*
+**May 2025 – Nov 2025**
+> Fixed **60+ bugs** in a KMP SaaS project · Built the **GDS Tourism App** · Implemented **Altashirat App** from scratch
 
-        .project-table th, .project-table td {
-            border: 1px solid #334155;
-            padding: 10px;
-            text-align: left;
-        }
+> `KMP` `Jetpack Compose` `Ktor` `Koin` `MockK` `Clean Architecture` `Git Flow`
 
-        .project-table th {
-            background-color: #1e293b;
-        }
+### OTAS · Android Developer Intern *(Remote — Full-time, Saudi Arabia)*
+**Jan 2025 – May 2025**
+> Led team projects · Code reviews · Full Android app with Clean Architecture
 
-        a {
-            color: #38bdf8;
-            text-decoration: none;
-        }
+> `Kotlin` `MVI` `Hilt` `Coroutines` `JUnit` `Retrofit` `Material 3` `SOLID`
 
-        .center {
-            text-align: center;
-        }
-    </style>
-</head>
+---
 
-<body>
+<div align="center">
 
-    <h1 class="center">Android Developer Portfolio</h1>
+## 🛠 Tech Stack
 
-    <div class="section">
-        <h2>Experience</h2>
+### Core Android & Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![XML](https://img.shields.io/badge/XML%20Layouts-%23FF6B35.svg?style=for-the-badge&logo=android&logoColor=white)
+![Material 3](https://img.shields.io/badge/Material%203-%23757575.svg?style=for-the-badge&logo=material-design&logoColor=white)
 
-        <div class="card">
-            <h3>Eva · Junior Android Developer</h3>
-            <p><strong>Oct 2025 – Dec 2025</strong> | Remote — Freelance, Iraq</p>
-            <ul>
-                <li>Developed cross-platform features using Compose Multiplatform (KMP)</li>
-                <li>Shared business logic across Android & iOS</li>
-                <li>Applied Clean Architecture with modular structure</li>
-            </ul>
-        </div>
+### 🏗 Architecture & Patterns
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23181717.svg?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-%230078D4.svg?style=for-the-badge&logoColor=white)
+![MVI](https://img.shields.io/badge/MVI-%23AA00FF.svg?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID%20Principles-%23E91E63.svg?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-%2300897B.svg?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23FF7043.svg?style=for-the-badge&logoColor=white)
 
-        <div class="card">
-            <h3>OTAS · Junior Android Developer</h3>
-            <p><strong>May 2025 – Nov 2025</strong> | Remote — Full-time, Saudi Arabia</p>
-            <ul>
-                <li>Fixed 60+ production bugs in SaaS KMP system</li>
-                <li>Built GDS Tourism App from concept to deployment</li>
-                <li>Developed Altashirat App from scratch</li>
-                <li>Refactored and modularized codebase</li>
-            </ul>
-        </div>
+### ⚡ Async & Dependency Injection
+![Coroutines](https://img.shields.io/badge/Coroutines-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![StateFlow](https://img.shields.io/badge/StateFlow-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![LiveData](https://img.shields.io/badge/LiveData-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Koin](https://img.shields.io/badge/Koin-%23F5A623.svg?style=for-the-badge&logoColor=white)
 
-        <div class="card">
-            <h3>OTAS · Android Developer Intern</h3>
-            <p><strong>Jan 2025 – May 2025</strong> | Remote — Full-time, Saudi Arabia</p>
-            <ul>
-                <li>Led internal team projects</li>
-                <li>Conducted code reviews</li>
-                <li>Built full Android app using Clean Architecture & MVI</li>
-            </ul>
-        </div>
-    </div>
+### 🌐 Networking & Storage
+![Retrofit](https://img.shields.io/badge/Retrofit-%2348B983.svg?style=for-the-badge&logo=square&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-%23087CFA.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Room](https://img.shields.io/badge/Room%20DB-%23FF6B35.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![DataStore](https://img.shields.io/badge/DataStore-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![KotlinX Serialization](https://img.shields.io/badge/KotlinX%20Serialization-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-    <div class="section">
-        <h2>Technical Expertise</h2>
+### 🧪 Testing
+![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
+![MockK](https://img.shields.io/badge/MockK-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Mokkery](https://img.shields.io/badge/Mokkery-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TDD](https://img.shields.io/badge/TDD-%23E91E63.svg?style=for-the-badge&logoColor=white)
 
-        <h3>Architecture & Design</h3>
-        <div>
-            <span class="badge">Clean Architecture</span>
-            <span class="badge">MVI</span>
-            <span class="badge">MVVM</span>
-            <span class="badge">SOLID</span>
-            <span class="badge">Repository Pattern</span>
-            <span class="badge">Modularization</span>
-        </div>
+### 🖼 UI & Image Libraries
+![Glide](https://img.shields.io/badge/Glide-%2300B96B.svg?style=for-the-badge&logo=android&logoColor=white)
+![Coil](https://img.shields.io/badge/Coil-%23181717.svg?style=for-the-badge&logoColor=white)
 
-        <h3>Android & UI</h3>
-        <div>
-            <span class="badge">Jetpack Compose</span>
-            <span class="badge">Compose Multiplatform</span>
-            <span class="badge">Material 3</span>
-            <span class="badge">Navigation</span>
-            <span class="badge">StateFlow</span>
-            <span class="badge">XML</span>
-        </div>
+### 🔧 Dev Tools & Workflow
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Git Flow](https://img.shields.io/badge/Git%20Flow-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![ClickUp](https://img.shields.io/badge/ClickUp-%237B68EE.svg?style=for-the-badge&logo=clickup&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%230052CC.svg?style=for-the-badge&logo=trello&logoColor=white)
 
-        <h3>Networking & Data</h3>
-        <div>
-            <span class="badge">Ktor</span>
-            <span class="badge">Retrofit</span>
-            <span class="badge">Room</span>
-            <span class="badge">DataStore</span>
-            <span class="badge">Firebase</span>
-            <span class="badge">Kotlinx Serialization</span>
-        </div>
+</div>
 
-        <h3>Testing</h3>
-        <div>
-            <span class="badge">JUnit</span>
-            <span class="badge">MockK</span>
-            <span class="badge">Mokkery</span>
-            <span class="badge">TDD</span>
-        </div>
-    </div>
+---
 
-    <div class="section">
-        <h2>Featured Projects</h2>
+## 🚀 Featured Projects
 
-        <table class="project-table">
-            <tr>
-                <th>Project</th>
-                <th>Description</th>
-                <th>Architecture</th>
-            </tr>
-            <tr>
-                <td>Altashirat</td>
-                <td>Visa requesting system built from scratch</td>
-                <td>Clean Architecture + MVI</td>
-            </tr>
-            <tr>
-                <td>GDS Tourism</td>
-                <td>Tourism management application</td>
-                <td>KMP + Compose</td>
-            </tr>
-            <tr>
-                <td>Talkie (Graduation - A+)</td>
-                <td>Real-time chat application</td>
-                <td>MVVM + Firebase</td>
-            </tr>
-        </table>
-    </div>
+<div align="center">
 
-    <div class="section center">
-        <h2>Let's Connect</h2>
-        <p>
-            <a href="https://www.linkedin.com/in/rodina-momen-927b991a5/" target="_blank">LinkedIn</a> |
-            <a href="mailto:Rodinamobark3@gmail.com">Gmail</a> |
-            <a href="https://medium.com/@rodinamobark3" target="_blank">Medium</a>
-        </p>
-    </div>
+| Project | Description | Tech |
+|---|---|---|
+| 🛂 **Altashirat** | Visa requesting app — built from scratch | `Compose` `MVI` `Ktor` `Koin` `Clean Arch` |
+| 💬 **Talkie** *(Graduation — A+)* | Real-time Android chatting app | `MVVM` `Firebase` `Retrofit` `Coroutines` |
 
-</body>
-</html>
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=majidibrahim&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majid-ibrahim-66b56415a/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:majidibraahim@gmail.com)
+
+</div>

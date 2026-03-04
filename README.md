@@ -17,6 +17,10 @@
 
 ### 🏗 Architecture & Patterns
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23181717.svg?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-%230078D4.svg?style=for-the-badge&logoColor=white)
+![MVI](https://img.shields.io/badge/MVI-%23AA00FF.svg?style=for-the-badge&logoColor=white)
+![Repository Pattern](https://img.shields.io/badge/Repository%20Pattern-%2300897B.svg?style=for-the-badge&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-%23FF7043.svg?style=for-the-badge&logoColor=white)
 
 ### ⚡ Async & Dependency Injection
 ![Coroutines](https://img.shields.io/badge/Coroutines-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -29,15 +33,8 @@
 ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)
 ![Room](https://img.shields.io/badge/Room%20DB-%23FF6B35.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-</div>
-
----
-
-<div align="center">
-
-## 🔥 Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=majidibrahim&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+### 🖼 UI & Image Libraries
+![Coil](https://img.shields.io/badge/Coil-%23181717.svg?style=for-the-badge&logoColor=white)
 
 </div>
 

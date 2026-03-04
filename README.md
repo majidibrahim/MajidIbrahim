@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Majid Ibrahim 👋
-### Junior Android Developer 🇪🇬
+### Junior Android Developer 🇪🇬 
 
 </div>
 
